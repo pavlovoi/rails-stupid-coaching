@@ -1,0 +1,21 @@
+// Place all the styles related to the Questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+  text-align: center;
+}
+
+#answer {
+  display: block;
+  background-color: #17A2B8;
+  margin: 15px;
+  text-align: center;
+}
+
+#question {
+  display: block;
+  background-color: #e2e2e2;
+  margin: 15px;
+  text-align: center;
+}
